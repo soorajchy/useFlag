@@ -1,6 +1,6 @@
 {
   "name": "@uikudo/useflag",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A lightweight React hook for feature flags",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -24,6 +24,14 @@
   "keywords": ["react", "hooks", "feature-flags", "useflag"],
   "author": "Sooraj",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soorajchy/useFlag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soorajchy/useFlag/issues"
+  },
+  "homepage": "https://github.com/soorajchy/useFlag#readme",
   "peerDependencies": {
     "react": ">=18.0.0"
   },
